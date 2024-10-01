@@ -1,1 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+}
+body {
+  background-color: #f1f1f1;
+}
+
 /* Header */
+header {
+  height: 90px;
+  background-color: white;
+}
+header img{
+    vertical-align: middle;
+    margin: 20px 5px 20px 20px;
+}
+header span{
+    font-size: 45px;
+    font-weight: bolder;
+    vertical-align: middle;
+}
+
+/* Container */
