@@ -5,6 +5,7 @@
 }
 body {
   background-color: #f8f8f8;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /* Header */
@@ -79,7 +80,7 @@ ul .div-icons {
   width: 90px;
   color:white;
   vertical-align: middle;
-  padding-top: 5px;
+  padding-top: 6px;
   border-radius: 20px;
   text-align: center;
 }
