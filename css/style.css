@@ -62,8 +62,42 @@ header span {
 .container ul {
   list-style: none;
   margin-top: 5px;
-  margin-bottom:20px;
+  margin-bottom: 20px;
 }
-.second-list{
-    margin-left: 20px;
+.second-list {
+  margin-left: 20px;
+}
+
+.container li {
+  padding-top: 10px;
+}
+
+/* Divs Icons in list */
+ul .div-icons {
+  display: inline-block;
+  height: 30px;
+  width: 90px;
+  color:white;
+  vertical-align: middle;
+  padding-top: 5px;
+  border-radius: 20px;
+  text-align: center;
+}
+.div-icons.editorial {
+  background-color: rgb(69 171 234);
+}
+.div-icons.q1-goals {
+    background-color: rgb(156 114 228);
+}
+.div-icons.recruiting {
+    background-color: rgb(100 192 169);
+}
+.div-icons.mobile {
+    background-color: rgb(242 158 51);
+}
+.div-icons.website {
+    background-color: rgb(216 99 161);
+}
+.div-icons.sales {
+    background-color: rgb(176 201 38);
 }
