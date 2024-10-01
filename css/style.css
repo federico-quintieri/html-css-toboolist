@@ -33,12 +33,12 @@ header span {
 
 .container.first {
   margin-top: 30px;
-  padding: 10px 20px 10px 20px;
+  padding: 15px 30px 15px 30px;
 }
 
 .container.second {
   margin-top: 5px;
-  padding: 20px;
+  padding: 20px 30px 20px 30px;
 }
 .container button {
   border-radius: 5px;
