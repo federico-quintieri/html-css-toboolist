@@ -76,11 +76,9 @@ header span {
 /* Divs Icons in list */
 ul .div-icons {
   display: inline-block;
-  height: 30px;
-  width: 90px;
   color:white;
   vertical-align: middle;
-  padding-top: 6px;
+  padding: 8px 12px;
   border-radius: 20px;
   text-align: center;
 }
